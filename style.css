@@ -1,0 +1,58 @@
+
+
+.menu {
+  background-color:transparent;
+  padding-left:10%;
+  padding-right: 10%;
+  padding-bottom: 40px;
+
+}
+
+.menu a {
+  color:black;
+  font-family:monospace;
+  font-size: 30px;
+  padding: 30px;
+
+}
+
+.profile {
+  padding-right: 100px;
+  width: 700px;
+  height: 50px;
+  padding-left: 20px;
+  padding-top: 300px
+  color:black;
+  font-size: 15px;
+  font-family: monospace;
+
+}
+
+.skillset {
+  padding-left: 350px;
+  width: 200px;
+  height: 60px;
+  float: center;
+  color:black;
+  font-size: 17px;
+  font-family: monospace;
+
+}
+
+.imageprofile {
+  width: 10px;
+  height: 5px;
+}
+
+.background{
+  background-color:
+
+}
+
+.pagetitle a {
+  padding-left: 40%;
+  font-size: 50px;
+  font-family: monospace;
+  font-variant: small-caps;
+
+}
