@@ -1,18 +1,24 @@
 
 
 .menu {
-  background-color:transparent;
-  padding-left:10%;
-  padding-right: 10%;
-  padding-bottom: 40px;
+  background-color:#132a4f;
+  width: 100%;
+  height: 10%;
+  padding-left: 10%;
+  font-family: monospace;
+  top: 0;
+  position: fixed;
+  white-space: nowrap;
 
 }
 
 .menu a {
-  color:black;
+  color:white;
   font-family:monospace;
   font-size: 30px;
   padding: 30px;
+  align-content: center;
+  white-space: nowrap;
 
 }
 
@@ -53,6 +59,26 @@
   padding-left: 40%;
   font-size: 50px;
   font-family: monospace;
-  font-variant: small-caps;
+
+}
+
+.mainpage{
+  color: white;
+  text-align: center;
+
+}
+
+.container {
+  position: center center;
+  left: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.hero {
+  height: 100%;
+  width: 100%;
+  background: url("../90s website/sunset.jpg")
 
 }
